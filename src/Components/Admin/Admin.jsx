@@ -1,5 +1,5 @@
 import React from 'react'
-import './Css/Admim.css'
+import '../Css/Admin'
 
 export const Admin = () => {
   return (
